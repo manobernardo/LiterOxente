@@ -47,8 +47,8 @@ public class Principal {
             var menu = """
                     ******* ESCOLHA UMA OPÇÃO ********
                     1 - Buscar livro pelo título
-                    2 - Listar livros registrados"
-                    3 - Listar autores registrados"
+                    2 - Listar livros registrados
+                    3 - Listar autores registrados
                     4 - Listar autores vivos em um determinado ano
                     5 - Listar livros em um determinado idioma
                   
